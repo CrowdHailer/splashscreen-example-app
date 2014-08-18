@@ -1,1 +1,3 @@
-alert('other');
+require('domready')(function () {
+    alert('ready now');
+})

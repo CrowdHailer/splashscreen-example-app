@@ -12,6 +12,7 @@
   "devDependencies": {
     "gulp": "^3.8.7",
     "gulp-browserify": "^0.5.0",
-    "phonegap": "^3.5.0-0.21.14"
+    "phonegap": "^3.5.0-0.21.14",
+    "domready": "^1.0.6"
   }
 }
