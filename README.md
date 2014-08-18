@@ -9,3 +9,9 @@ Startup scripts
 qstart https://github.com/peutetre/qstart
 domready:
 standard solution given in phonegap generator
+
+xml reader options
+https://github.com/polotek/libxmljs
+https://www.npmjs.org/package/xml2js
+
+raster options
