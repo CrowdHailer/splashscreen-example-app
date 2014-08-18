@@ -1,3 +1,3 @@
 require('domready')(function () {
-    alert('ready now');
+    alert('ready nooooow');
 })

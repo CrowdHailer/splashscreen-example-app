@@ -11,3 +11,8 @@ gulp.task('js', function () {
         .pipe(browserify())
         .pipe(gulp.dest('www'));
 });
+
+gulp.task('default', function () {
+    gulp.watch('app/js/*', ['js']);
+    gulp.watch('app/index.html', ['build'])
+});
