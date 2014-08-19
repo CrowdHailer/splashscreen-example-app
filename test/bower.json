@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "authors": [
+    "Peter <peterhsaxton@gmail.com>"
+  ],
+  "description": "tests for splashscreen-example-app",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true
+}
