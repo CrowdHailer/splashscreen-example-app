@@ -6,7 +6,8 @@
   "scripts": {
     "test": "./node_modules/.bin/minijasminenode2 test/index.js --verbose",
     "serve": "./node_modules/.bin/gulp & ./node_modules/.bin/phonegap serve",
-    "resources": "./node_modules/.bin/crystallize"
+    "resources": "./node_modules/.bin/crystallize",
+    "build": "./node_modules/.bin/gulp build && ./node_modules/.bin/gulp js"
   },
   "author": "",
   "license": "MIT",
