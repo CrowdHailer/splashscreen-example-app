@@ -15,3 +15,7 @@ https://github.com/polotek/libxmljs
 https://www.npmjs.org/package/xml2js
 
 raster options
+
+**NOTES**
+applications will crash if there is no splashscreen available. App may work portrait but not landscape.
+Ensure default is present
